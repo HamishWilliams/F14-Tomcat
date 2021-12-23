@@ -1,0 +1,358 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: f14tomcatabout.descriptionfirstparagraph
+msgid "A program for tricking other programs into thinking you are active at the keyboard.  To the casual observer of your screen, however, it looks like a program serving you chirpy messages to keep you feeling positive."
+msgstr ""
+
+#: f14tomcatabout.descriptionsecondparagraph
+msgid "Right-click on the images of the F14 planes to open the webpage of the associated wikimedia page."
+msgstr ""
+
+#: f14tomcatmain.ft00
+msgid "Flying high..."
+msgstr ""
+
+#: f14tomcatmain.ft01
+msgid "Above the clouds..."
+msgstr ""
+
+#: f14tomcatmain.ft02
+msgid "Looking down on you..."
+msgstr ""
+
+#: f14tomcatmain.ft03
+msgid "In the wire..."
+msgstr ""
+
+#: f14tomcatmain.ft04
+msgid "Man must rise above the Earth"
+msgstr ""
+
+#: f14tomcatmain.ft05
+msgid "Let's kick the tyres and light the fires"
+msgstr ""
+
+#: f14tomcatmain.ft06
+msgid "George is flying the plane now..."
+msgstr ""
+
+#: f14tomcatmain.ft07
+msgid "We're flying through an air pocket..."
+msgstr ""
+
+#: f14tomcatmain.ft08
+msgid "Pass the crew juice..."
+msgstr ""
+
+#: f14tomcatmain.ft09
+msgid "Keep your eyes out for bandits"
+msgstr ""
+
+#: f14tomcatmain.ft10
+msgid "Only bug out if you really must"
+msgstr ""
+
+#: f14tomcatmain.ft11
+msgid "Ease back on the throttle..."
+msgstr ""
+
+#: f14tomcatmain.ft12
+msgid "Remember thou must die"
+msgstr ""
+
+#: f14tomcatmain.ft13
+msgid "What can happen any time can happen today"
+msgstr ""
+
+#: f14tomcatmain.ft14
+msgid "Be precise in your speech"
+msgstr ""
+
+#: f14tomcatmain.ft15
+msgid "Tell the truth or, at least, don't lie"
+msgstr ""
+
+#: f14tomcatmain.ft16
+msgid "Be the pilot of your own flight"
+msgstr ""
+
+#: f14tomcatmain.ft17
+msgid "An airplane takes off against the wind..."
+msgstr ""
+
+#: f14tomcatmain.ft18
+msgid "Take-off is optional. Landing in mandatory."
+msgstr ""
+
+#: f14tomcatmain.ft19
+msgid "Aircrew only..."
+msgstr ""
+
+#: f14tomcatmain.ft20
+msgid "Imagine being lost at Mach 3..."
+msgstr ""
+
+#: f14tomcatmain.ft21
+msgid "Keep flying the mission"
+msgstr ""
+
+#: f14tomcatmain.ft22
+msgid "I feel the need.  The need for..."
+msgstr ""
+
+#: f14tomcatmain.ft23
+msgid "I'm not lazy.  I'm in power saving mode."
+msgstr ""
+
+#: f14tomcatmain.ft24
+msgid "Life happens.  Coffee helps."
+msgstr ""
+
+#: f14tomcatmain.ft25
+msgid "Friends are therapists you drink with."
+msgstr ""
+
+#: f14tomcatmain.ft26
+msgid "Tequila Tuesday!"
+msgstr ""
+
+#: f14tomcatmain.ft27
+msgid "Straighten up and fly right..."
+msgstr ""
+
+#: f14tomcatmain.ft28
+msgid "Act as if what you do makes a difference."
+msgstr ""
+
+#: f14tomcatmain.ft29
+msgid "The second best time to plant a tree is now"
+msgstr ""
+
+#: f14tomcatmain.ft30
+msgid "Happiness doesn't come microwave ready"
+msgstr ""
+
+#: f14tomcatmain.ft31
+msgid "Be polite"
+msgstr ""
+
+#: f14tomcatmain.ft32
+msgid "Remember, the world is your native city"
+msgstr ""
+
+#: f14tomcatmain.ft33
+msgid "Say only what is necessary"
+msgstr ""
+
+#: f14tomcatmain.ft34
+msgid "Be gentle and mild with foes"
+msgstr ""
+
+#: f14tomcatmain.ft35
+msgid "Remember that everything is an impression"
+msgstr ""
+
+#: f14tomcatmain.ft36
+msgid "Cultivate a passion"
+msgstr ""
+
+#: f14tomcatmain.ft37
+msgid "Be part of something bigger than yourself"
+msgstr ""
+
+#: f14tomcatmain.ft38
+msgid "Accept change"
+msgstr ""
+
+#: f14tomcatmain.ft39
+msgid "I was not, I was, I am not, I care not."
+msgstr ""
+
+#: f14tomcatmain.ft40
+msgid "What you cannot avoid, welcome"
+msgstr ""
+
+#: f14tomcatmain.ft41
+msgid "However it ends, it was an experience"
+msgstr ""
+
+#: f14tomcatmain.ft42
+msgid "You need very few things to be happy"
+msgstr ""
+
+#: f14tomcatmain.ft43
+msgid "Do not limit yourself"
+msgstr ""
+
+#: f14tomcatmain.ft44
+msgid "Hold your tongue and think first..."
+msgstr ""
+
+#: f14tomcatmain.ft45
+msgid "Sometimes it is better to stay silent"
+msgstr ""
+
+#: f14tomcatmain.ft46
+msgid "Never stop dreaming"
+msgstr ""
+
+#: f14tomcatmain.ft47
+msgid "Don't be ashamed to ask for help"
+msgstr ""
+
+#: f14tomcatmain.ft48
+msgid "The metric measured is the one that changes"
+msgstr ""
+
+#: f14tomcatmain.ft49
+msgid "Bring me sunshine..."
+msgstr ""
+
+#: f14tomcatmain.ft50
+msgid "Take responsibility for the passengers"
+msgstr ""
+
+#: f14tomcatmain.ft51
+msgid "A goal without a plan is just a wish"
+msgstr ""
+
+#: f14tomcatmain.ft52
+msgid "Life doesn't have Ctrl-Z."
+msgstr ""
+
+#: f14tomcatmain.ft53
+msgid "Monday is one seventh of your life"
+msgstr ""
+
+#: f14tomcatmain.ft54
+msgid "Set your house in order..."
+msgstr ""
+
+#: f14tomcatmain.ft55
+msgid "If something is wrong, fix it..."
+msgstr ""
+
+#: f14tomcatmain.ft56
+msgid "Make the best of what is in your power..."
+msgstr ""
+
+#: f14tomcatmain.ft57
+msgid "Be tolerent with others..."
+msgstr ""
+
+#: f14tomcatmain.ft58
+msgid "If it's not right, do not do it..."
+msgstr ""
+
+#: f14tomcatmain.ftnotermtodisplay
+msgid "Radio's dead..."
+msgstr ""
+
+#: f14tomcatmain.intheairstatus
+msgid "In the air..."
+msgstr ""
+
+#: f14tomcatmain.landbuttoncaption
+msgid "&Land"
+msgstr ""
+
+#: f14tomcatmain.landbuttonhint
+msgid "Have the program sit and do nothing"
+msgstr ""
+
+#: f14tomcatmain.onthegroundstatus
+msgid "On the ground..."
+msgstr ""
+
+#: f14tomcatmain.takeoffbuttoncaption
+msgctxt "f14tomcatmain.takeoffbuttoncaption"
+msgid "&Take off!"
+msgstr ""
+
+#: f14tomcatmain.takeoffbuttonhint
+msgid "Get this thing in the air!"
+msgstr ""
+
+#: tf14tomcataboutform.caption
+msgctxt "tf14tomcataboutform.caption"
+msgid "About"
+msgstr ""
+
+#: tf14tomcataboutform.copyrightlabel.caption
+msgid "CopyrightLabel"
+msgstr ""
+
+#: tf14tomcataboutform.licenselabel.caption
+msgid "LicenseLabel"
+msgstr ""
+
+#: tf14tomcataboutform.okbutton.caption
+msgctxt "tf14tomcataboutform.okbutton.caption"
+msgid "OK"
+msgstr ""
+
+#: tf14tomcataboutform.programnamelabel.caption
+msgctxt "tf14tomcataboutform.programnamelabel.caption"
+msgid "F14 Tomcat"
+msgstr ""
+
+#: tf14tomcatmainform.aboutbutton.caption
+msgctxt "tf14tomcatmainform.aboutbutton.caption"
+msgid "&About"
+msgstr ""
+
+#: tf14tomcatmainform.aboutbutton.hint
+msgid "What is this program and who wrote it?"
+msgstr ""
+
+#: tf14tomcatmainform.caption
+msgctxt "tf14tomcatmainform.caption"
+msgid "F14 Tomcat"
+msgstr ""
+
+#: tf14tomcatmainform.exitbutton.caption
+msgid "E&xit"
+msgstr ""
+
+#: tf14tomcatmainform.exitbutton.hint
+msgid "Close the program"
+msgstr ""
+
+#: tf14tomcatmainform.flightbutton.caption
+msgctxt "tf14tomcatmainform.flightbutton.caption"
+msgid "FlightButton"
+msgstr ""
+
+#: tf14tomcatmainform.flightbutton.hint
+msgid "Get this thing flying!"
+msgstr ""
+
+#: tf14tomcatmainform.flyingimage.hint
+msgid "A US Navy (USN) F-14 Tomcat aircraft flies a combat mission in support of Operation Iraqi Freedom.  Photographer: SSgt Lee O Tucker (USAF)"
+msgstr ""
+
+#: tf14tomcatmainform.landedimage.hint
+msgid "An F-14 Tomcat embarked aboard the USS Theodore Roosevelt stands by for another flight mission in the Atlantic Ocean.  Photographer: PH2 (SW) Michael Sandberg"
+msgstr ""
+
+#: tf14tomcatmainform.websiteflyingmenuitem.caption
+msgctxt "tf14tomcatmainform.websiteflyingmenuitem.caption"
+msgid "Flying image website"
+msgstr ""
+
+#: tf14tomcatmainform.websiteflyingmenuitem.hint
+msgctxt "tf14tomcatmainform.websiteflyingmenuitem.hint"
+msgid "Go to the website displaying the flying image"
+msgstr ""
+
+#: tf14tomcatmainform.websitelandedmenuitem.caption
+msgctxt "tf14tomcatmainform.websitelandedmenuitem.caption"
+msgid "Landed image website"
+msgstr ""
+
+#: tf14tomcatmainform.websitelandedmenuitem.hint
+msgctxt "tf14tomcatmainform.websitelandedmenuitem.hint"
+msgid "Go to the website displaying the landed image"
+msgstr ""
+

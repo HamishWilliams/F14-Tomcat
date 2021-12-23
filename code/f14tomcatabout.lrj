@@ -1,0 +1,7 @@
+{"version":1,"strings":[
+{"hash":4691652,"name":"tf14tomcataboutform.caption","sourcebytes":[65,98,111,117,116],"value":"About"},
+{"hash":1339,"name":"tf14tomcataboutform.okbutton.caption","sourcebytes":[79,75],"value":"OK"},
+{"hash":95596004,"name":"tf14tomcataboutform.programnamelabel.caption","sourcebytes":[70,49,52,32,84,111,109,99,97,116],"value":"F14 Tomcat"},
+{"hash":152237004,"name":"tf14tomcataboutform.copyrightlabel.caption","sourcebytes":[67,111,112,121,114,105,103,104,116,76,97,98,101,108],"value":"CopyrightLabel"},
+{"hash":214820076,"name":"tf14tomcataboutform.licenselabel.caption","sourcebytes":[76,105,99,101,110,115,101,76,97,98,101,108],"value":"LicenseLabel"}
+]}
