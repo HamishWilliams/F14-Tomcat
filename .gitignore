@@ -71,3 +71,6 @@ modules/
 # Lazarus folders
 code/backup/
 code/lib/
+
+# Lazarus program session information - cursor positions, source file names, etc
+*.lps
