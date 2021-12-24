@@ -25,9 +25,9 @@
       <UseVersionInfo Value="True"/>
       <AutoIncrementBuild Value="True"/>
       <MajorVersionNr Value="1"/>
-      <BuildNr Value="3"/>
+      <BuildNr Value="4"/>
       <Language Value="0809"/>
-      <StringTable FileDescription="Simulates keypresses every few minutes." ProductName="F14 Tomcat"/>
+      <StringTable FileDescription="Simulates keypresses every few minutes." LegalCopyright="Hamish A Williams" OriginalFilename="f14tomcat.exe" ProductName="F14 Tomcat" ProductVersion="1.0.0"/>
     </VersionInfo>
     <BuildModes Count="1">
       <Item1 Name="Default" Default="True"/>
