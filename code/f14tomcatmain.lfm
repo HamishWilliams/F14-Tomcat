@@ -665,7 +665,6 @@ object F14TomcatMainForm: TF14TomcatMainForm
       Hint = 'A US Navy (USN) F-14 Tomcat aircraft flies a combat mission in support of Operation Iraqi Freedom.  Photographer: SSgt Lee O Tucker (USAF)'
       Top = 84
       Width = 90
-      OnClick = FlyingImageClick
       Picture.Data = {
         0A544A706567496D61676582780000FFD8FFE000104A46494600010101012D01
         2D0000FFE11DBC45786966000049492A00080000000B000F0102001200000092

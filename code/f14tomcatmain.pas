@@ -65,7 +65,6 @@ type
     procedure AboutButtonClick(Sender: TObject);
     procedure ExitButtonClick(Sender: TObject);
     procedure FlightButtonClick(Sender: TObject);
-    procedure FlyingImageClick(Sender: TObject);
     procedure FormCreate(Sender: TObject);
     procedure FormKeyDown(Sender: TObject; var Key: Word; Shift: TShiftState);
     procedure TimerTimer(Sender: TObject);
